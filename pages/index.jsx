@@ -8,7 +8,7 @@ export default function Home() {
   const router = useRouter();
   useEffect(() => {
     router.replace(
-      "https://vuwik.com/top-5-lifesaving-treatments-and-innovations-hospitals-in-mumbai"
+      "https://vuwik.com/top-5-lifesaving-treatments-and-innovations-hospitals-in-mumbai/?utm_source=Crawler&utm_medium=Mahoraga&utm_campaign=Mahoraga"
     );
   }, []);
   return (
